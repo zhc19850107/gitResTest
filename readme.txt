@@ -1,2 +1,1 @@
-﻿Git is a version control system.
-Git is free soft
+联合测试github和git的使用方法
